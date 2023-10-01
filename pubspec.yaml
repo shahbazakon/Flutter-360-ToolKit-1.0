@@ -1,0 +1,41 @@
+name: materialx_flutter
+description: Material X Flutter
+
+version: 2.3.0+230
+
+environment:
+  sdk: ">=2.13.4 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: 
+  get:
+  fluttertoast: ^8.2.2
+  intl: ^0.18.1
+  package_info: ^2.0.2
+  http: ^1.1.0
+  flutter_speed_dial: ^7.0.0
+  shared_preferences: ^2.2.1
+  firebase_core: ^2.16.0
+  firebase_messaging: ^14.6.8
+  flutter_local_notifications:
+  url_launcher: ^6.1.14
+  device_info: ^2.0.3
+  backdrop: ^0.9.1
+  flutter_staggered_grid_view: ^0.7.0
+  sqflite: ^2.3.0
+  path: ^1.8.3
+
+dependency_overrides:
+  file: ^7.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+
