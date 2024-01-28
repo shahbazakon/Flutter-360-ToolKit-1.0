@@ -1,6 +1,36 @@
 # Flutter 360 ToolKit 1.0 
 
-Material X Flutter
+## :compass: Widgets List
+
+* [x] Bottom Navigation
+* [x] Bottom Sheet
+* [x] Buttons Variant
+* [x] Card View
+* [x] Chips
+* [x] Dialog View
+* [x] Expansion Panels
+* [x] Grid View
+* [x] List View
+* [x] Menu Variant
+* [x] Pickers (Date, Time, Color)
+* [x] Progress & Activity
+* [x] Snackbars & Toasts
+* [x] Sliders
+* [x] Steppers
+* [x] Form
+* [x] Tab View
+* [x] Toolbars
+* [x] Profile
+* [x] No Item Page (Empty State)
+* [x] Player (Media)
+* [x] Timeline (Social Media)
+* [x] Shopping (Ecommerce)
+* [x] Search Page
+* [x] Article
+* [x] Ripple Effect
+* [x] Well Documented
+* [x] Clean & Neat Code (Relative)
+
 
 ## App Alication Screen Screen Short
 ![2](https://github.com/shahbazakon/Flutter-360-ToolKit-1.0/assets/57652434/e339d2cd-6b9f-4516-9fad-d929e5b6bf9f)
@@ -43,6 +73,12 @@ Material X Flutter
 ![22](https://github.com/shahbazakon/Flutter-360-ToolKit-1.0/assets/57652434/96f78e57-df4b-427b-bc5f-80732bca65f2)
 ![23](https://github.com/shahbazakon/Flutter-360-ToolKit-1.0/assets/57652434/4b3963bf-8cca-4c06-9494-c23a8f45a805)
 ![24](https://github.com/shahbazakon/Flutter-360-ToolKit-1.0/assets/57652434/dbad21a7-efaa-4ecb-9043-5da2f49c783b)
+
+## :handshake: Contact
+
+Mohd Shahbaz - - shahbazshahzadqureshi@gmail.com
+
+Project Link: [https://github.com/shahbazakon/Flutter-360-ToolKit-1.0](https://github.com/shahbazakon/Flutter-360-ToolKit-1.0)
 
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
